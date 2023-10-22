@@ -1,0 +1,17 @@
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+../generated/events_init.c:15:13:screen_imgbtn_4_event_handler	40	static
+../generated/events_init.c:38:13:screen_imgbtn_3_event_handler	40	static
+../generated/events_init.c:61:13:screen_imgbtn_2_event_handler	40	static
+../generated/events_init.c:84:13:screen_imgbtn_1_event_handler	40	static
+../generated/events_init.c:107:6:events_init_screen	16	static
+../generated/events_init.c:114:13:screen_1_imgbtn_1_event_handler	40	static
+../generated/events_init.c:137:6:events_init_screen_1	16	static
+../generated/events_init.c:141:13:screen_2_imgbtn_2_event_handler	40	static
+../generated/events_init.c:164:6:events_init_screen_2	16	static
+../generated/events_init.c:168:13:screen_3_event_handler	40	static
+../generated/events_init.c:191:13:screen_3_imgbtn_1_event_handler	40	static
+../generated/events_init.c:214:6:events_init_screen_3	16	static
+../generated/events_init.c:219:13:screen_4_event_handler	40	static
+../generated/events_init.c:242:13:screen_4_imgbtn_1_event_handler	40	static
+../generated/events_init.c:265:6:events_init_screen_4	16	static
+../generated/events_init.c:271:6:events_init	16	static

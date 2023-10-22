@@ -1,0 +1,13 @@
+../lvgl/lvgl/src/draw/../misc/lv_mem.h:194:44:lv_memcpy_small	32	static
+../lvgl/lvgl/src/draw/../misc/lv_color.h:375:24:lv_color_to32	24	static
+../lvgl/lvgl/src/draw/../misc/lv_color.h:588:26:lv_color_make	16	static
+../lvgl/lvgl/src/draw/../misc/lv_color.h:693:26:lv_color_black	8	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:51:12:lv_img_buf_get_px_color	72	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:118:10:lv_img_buf_get_px_alpha	80	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:181:6:lv_img_buf_set_px_alpha	64	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:240:6:lv_img_buf_set_px_color	72	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:309:6:lv_img_buf_set_palette	24	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:330:16:lv_img_buf_alloc	24	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:366:6:lv_img_buf_free	16	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:383:10:lv_img_buf_get_img_size	16	static
+../lvgl/lvgl/src/draw/lv_img_buf.c:423:6:_lv_img_buf_get_transformed_area	40	static

@@ -1,0 +1,3 @@
+../source/lvgl_demo_utils.c:25:6:DEMO_InitUsTimer	8	static
+../source/lvgl_demo_utils.c:34:10:DEMO_GetUsTimer	64	static
+../source/lvgl_demo_utils.c:49:10:DEMO_GetCpuClockFreq	4	static

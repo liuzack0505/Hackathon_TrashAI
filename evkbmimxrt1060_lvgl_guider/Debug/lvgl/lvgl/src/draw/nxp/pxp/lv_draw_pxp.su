@@ -1,0 +1,10 @@
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_area.h:110:20:lv_area_copy	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c:83:6:lv_draw_pxp_ctx_init	24	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c:94:6:lv_draw_pxp_ctx_deinit	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c:112:20:need_argb8565_support	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c:124:13:lv_draw_pxp_wait_for_finish	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c:131:13:lv_draw_pxp_blend	72	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c:175:13:lv_draw_pxp_img_decoded	96	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c:261:13:lv_draw_pxp_buffer_copy	40	static

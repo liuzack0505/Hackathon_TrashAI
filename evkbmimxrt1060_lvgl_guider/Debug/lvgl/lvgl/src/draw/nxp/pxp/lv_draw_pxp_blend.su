@@ -1,0 +1,16 @@
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1494:20:PXP_EnableAlphaSurfaceOverlayColorKey	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1557:20:PXP_SetProcessSurfaceBackGroundColor	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1724:20:PXP_SetRotateConfig	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_color.h:375:24:lv_color_to32	24	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_color.h:439:48:lv_color_mix	24	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_color.h:593:26:lv_color_hex	24	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_area.h:110:20:lv_area_copy	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_area.h:123:26:lv_area_get_width	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/../../sw/../../misc/lv_area.h:133:26:lv_area_get_height	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:141:6:lv_gpu_nxp_pxp_fill	72	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:209:6:lv_gpu_nxp_pxp_blit	104	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:294:6:lv_gpu_nxp_pxp_blit_transform	48	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:316:6:lv_gpu_nxp_pxp_buffer_copy	56	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:347:13:lv_pxp_blit_opa	56	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:369:13:lv_pxp_blit_cover	88	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c:474:13:lv_pxp_blit_cf	120	static

@@ -1,0 +1,14 @@
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_common_arm.h:514:24:EnableIRQ	24	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl/src/core/lv_disp.h:182:26:lv_scr_act	8	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl/src/lv_api_map.h:35:51:lv_task_handler	8	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_lpuart.h:762:20:LPUART_WriteByte	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_lpuart.h:776:23:LPUART_ReadByte	32	static
+../source/lvgl_guider.c:65:13:AppTask	16	static
+../source/lvgl_guider.c:91:6:LPUART1_IRQHandler	64	static
+../source/lvgl_guider.c:206:13:lpuartTask	40	static
+../source/lvgl_guider.c:252:6:BOARD_ReconfigFlexSpiRxBuffer	40	static
+../source/lvgl_guider.c:303:5:main	24	static
+../source/lvgl_guider.c:347:6:vApplicationMallocFailedHook	8	static
+../source/lvgl_guider.c:358:6:vApplicationTickHook	8	static
+../source/lvgl_guider.c:369:6:vApplicationStackOverflowHook	16	static

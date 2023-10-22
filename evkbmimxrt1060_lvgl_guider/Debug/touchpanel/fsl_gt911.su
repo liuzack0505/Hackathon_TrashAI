@@ -1,0 +1,8 @@
+../touchpanel/fsl_gt911.c:53:16:GT911_GetFirmwareCheckSum	24	static
+../touchpanel/fsl_gt911.c:67:13:GT911_VerifyFirmware	16	static
+../touchpanel/fsl_gt911.c:73:10:GT911_Init	232	static
+../touchpanel/fsl_gt911.c:197:10:GT911_Deinit	16	static
+../touchpanel/fsl_gt911.c:203:17:GT911_ReadRawTouchData	40	static
+../touchpanel/fsl_gt911.c:233:10:GT911_GetSingleTouch	32	static
+../touchpanel/fsl_gt911.c:262:10:GT911_GetMultiTouch	40	static
+../touchpanel/fsl_gt911.c:311:10:GT911_GetResolution	24	static

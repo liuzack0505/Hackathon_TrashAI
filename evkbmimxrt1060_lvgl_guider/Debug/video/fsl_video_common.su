@@ -1,0 +1,17 @@
+../video/fsl_video_common.c:19:6:VIDEO_IsYUV	16	static
+../video/fsl_video_common.c:33:6:VIDEO_DelayMs	24	static
+../video/fsl_video_common.c:51:9:VIDEO_GetPixelSizeBits	24	static
+../video/fsl_video_common.c:101:10:VIDEO_RINGBUF_Init	24	static
+../video/fsl_video_common.c:113:10:VIDEO_RINGBUF_Get	32	static
+../video/fsl_video_common.c:142:10:VIDEO_RINGBUF_Put	24	static
+../video/fsl_video_common.c:166:10:VIDEO_RINGBUF_GetLength	32	static
+../video/fsl_video_common.c:184:6:VIDEO_RINGBUF_IsEmpty	24	static
+../video/fsl_video_common.c:200:6:VIDEO_RINGBUF_IsFull	24	static
+../video/fsl_video_common.c:222:10:VIDEO_MEMPOOL_Init	24	static
+../video/fsl_video_common.c:235:6:VIDEO_MEMPOOL_InitEmpty	16	static
+../video/fsl_video_common.c:241:6:VIDEO_MEMPOOL_Put	16	static
+../video/fsl_video_common.c:248:7:VIDEO_MEMPOOL_Get	24	static
+../video/fsl_video_common.c:261:10:VIDEO_MEMPOOL_GetCount	16	static
+../video/fsl_video_common.c:266:10:VIDEO_STACK_Init	24	static
+../video/fsl_video_common.c:275:10:VIDEO_STACK_Pop	24	static
+../video/fsl_video_common.c:293:10:VIDEO_STACK_Push	24	static

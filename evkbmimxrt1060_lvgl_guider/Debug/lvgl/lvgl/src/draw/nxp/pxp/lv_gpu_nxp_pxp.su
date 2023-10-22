@@ -1,0 +1,10 @@
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1227:20:PXP_SetProcessBlockSize	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1368:20:PXP_EnableInterrupts	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1386:20:PXP_DisableInterrupts	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1903:20:PXP_EnableCsc1	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:71:10:lv_gpu_nxp_pxp_init	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:97:6:lv_gpu_nxp_pxp_deinit	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:104:6:lv_gpu_nxp_pxp_reset	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:115:6:lv_gpu_nxp_pxp_run	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:122:6:lv_gpu_nxp_pxp_wait	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c:131:20:invalidate_cache	16	static

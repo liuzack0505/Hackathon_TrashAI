@@ -1,0 +1,13 @@
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\CMSIS/core_cm7.h:1911:22:__NVIC_EnableIRQ	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\CMSIS/core_cm7.h:1949:22:__NVIC_DisableIRQ	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\CMSIS/core_cm7.h:2041:22:__NVIC_SetPriority	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1157:20:PXP_Start	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1289:24:PXP_GetStatusFlags	24	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1313:20:PXP_ClearStatusFlags	16	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\drivers/fsl_pxp.h:1368:20:PXP_EnableInterrupts	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:101:6:PXP_IRQHandler	16	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:118:20:lv_gpu_nxp_pxp_get_cfg	4	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:127:17:_lv_gpu_nxp_pxp_interrupt_init	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:143:13:_lv_gpu_nxp_pxp_interrupt_deinit	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:154:13:_lv_gpu_nxp_pxp_run	8	static
+../lvgl/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c:165:13:_lv_gpu_nxp_pxp_wait	8	static

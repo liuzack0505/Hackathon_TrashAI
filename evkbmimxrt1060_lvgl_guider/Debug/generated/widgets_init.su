@@ -1,0 +1,4 @@
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl/src/lv_api_map.h:55:20:lv_obj_move_foreground	24	static
+D:\NTHU\NXP\Workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl/src/lv_api_map.h:67:20:lv_obj_move_background	16	static
+../generated/widgets_init.c:16:30:kb_event_cb	24	static
+../generated/widgets_init.c:24:30:ta_event_cb	32	static

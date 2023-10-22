@@ -1,0 +1,96 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+ASM_SRCS := 
+C++_SRCS := 
+CC_SRCS := 
+CPP_SRCS := 
+CXX_SRCS := 
+C_SRCS := 
+C_UPPER_SRCS := 
+OBJ_SRCS := 
+O_SRCS := 
+S_SRCS := 
+S_UPPER_SRCS := 
+C++_DEPS := 
+CC_DEPS := 
+CPP_DEPS := 
+CXX_DEPS := 
+C_DEPS := 
+C_UPPER_DEPS := 
+EXECUTABLES := 
+OBJS := 
+
+# Every subdirectory with source files must be described here
+SUBDIRS := \
+board \
+component/lists \
+component/serial_manager \
+component/uart \
+custom \
+device \
+drivers \
+freertos/freertos-kernel \
+freertos/freertos-kernel/portable/GCC/ARM_CM4F \
+freertos/freertos-kernel/portable/MemMang \
+generated \
+generated/guider_fonts \
+generated/images \
+lvgl/lvgl/src/core \
+lvgl/lvgl/src/draw \
+lvgl/lvgl/src/draw/nxp/pxp \
+lvgl/lvgl/src/draw/nxp/vglite \
+lvgl/lvgl/src/draw/sdl \
+lvgl/lvgl/src/draw/stm32_dma2d \
+lvgl/lvgl/src/draw/sw \
+lvgl/lvgl/src/extra/layouts/flex \
+lvgl/lvgl/src/extra/layouts/grid \
+lvgl/lvgl/src/extra/libs/bmp \
+lvgl/lvgl/src/extra/libs/ffmpeg \
+lvgl/lvgl/src/extra/libs/freetype \
+lvgl/lvgl/src/extra/libs/fsdrv \
+lvgl/lvgl/src/extra/libs/gif \
+lvgl/lvgl/src/extra/libs/png \
+lvgl/lvgl/src/extra/libs/qrcode \
+lvgl/lvgl/src/extra/libs/rlottie \
+lvgl/lvgl/src/extra/libs/sjpg \
+lvgl/lvgl/src/extra \
+lvgl/lvgl/src/extra/others/fragment \
+lvgl/lvgl/src/extra/others/gridnav \
+lvgl/lvgl/src/extra/others/ime \
+lvgl/lvgl/src/extra/others/imgfont \
+lvgl/lvgl/src/extra/others/monkey \
+lvgl/lvgl/src/extra/others/msg \
+lvgl/lvgl/src/extra/others/snapshot \
+lvgl/lvgl/src/extra/themes/basic \
+lvgl/lvgl/src/extra/themes/default \
+lvgl/lvgl/src/extra/themes/mono \
+lvgl/lvgl/src/extra/widgets/animimg \
+lvgl/lvgl/src/extra/widgets/calendar \
+lvgl/lvgl/src/extra/widgets/chart \
+lvgl/lvgl/src/extra/widgets/colorwheel \
+lvgl/lvgl/src/extra/widgets/imgbtn \
+lvgl/lvgl/src/extra/widgets/keyboard \
+lvgl/lvgl/src/extra/widgets/led \
+lvgl/lvgl/src/extra/widgets/list \
+lvgl/lvgl/src/extra/widgets/menu \
+lvgl/lvgl/src/extra/widgets/meter \
+lvgl/lvgl/src/extra/widgets/msgbox \
+lvgl/lvgl/src/extra/widgets/span \
+lvgl/lvgl/src/extra/widgets/spinbox \
+lvgl/lvgl/src/extra/widgets/spinner \
+lvgl/lvgl/src/extra/widgets/tabview \
+lvgl/lvgl/src/extra/widgets/tileview \
+lvgl/lvgl/src/extra/widgets/win \
+lvgl/lvgl/src/font \
+lvgl/lvgl/src/hal \
+lvgl/lvgl/src/misc \
+lvgl/lvgl/src/widgets \
+source \
+startup \
+touchpanel \
+utilities \
+video \
+xip \
+

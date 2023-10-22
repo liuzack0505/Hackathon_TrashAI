@@ -1,0 +1,14 @@
+d:\nthu\nxp\workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl\src\misc\lv_color.h:375:24:lv_color_to32	24	static
+d:\nthu\nxp\workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl\src\misc\lv_color.h:439:48:lv_color_mix	24	static
+d:\nthu\nxp\workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl\src\misc\lv_color.h:580:23:lv_color_brightness	24	static
+d:\nthu\nxp\workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl\src\misc\lv_color.h:588:26:lv_color_make	16	static
+d:\nthu\nxp\workspace\evkbmimxrt1060_lvgl_guider\lvgl\lvgl\src\misc\lv_color.h:693:26:lv_color_black	8	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:54:12:lv_led_create	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:71:6:lv_led_set_color	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:85:6:lv_led_set_brightness	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:102:6:lv_led_on	16	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:111:6:lv_led_off	16	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:120:6:lv_led_toggle	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:138:9:lv_led_get_brightness	24	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:150:13:lv_led_constructor	32	static
+../lvgl/lvgl/src/extra/widgets/led/lv_led.c:158:13:lv_led_event	168	static

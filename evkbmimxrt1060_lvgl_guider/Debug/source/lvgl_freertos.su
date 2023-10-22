@@ -1,0 +1,4 @@
+../source/lvgl_freertos.c:71:10:getIdleTaskTime	4	static
+../source/lvgl_freertos.c:81:6:resetIdleTaskTime	4	static
+../source/lvgl_freertos.c:88:6:traceTaskSwitchedOut	4	static
+../source/lvgl_freertos.c:98:6:traceTaskSwitchedIn	4	static
